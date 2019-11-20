@@ -1,6 +1,6 @@
-# weather_app
+# world_clock
 
-A Flutter Weather application.
+A Flutter Clock application.
 
 ## Getting Started
 
